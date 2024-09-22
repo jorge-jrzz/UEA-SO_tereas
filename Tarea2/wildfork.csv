@@ -1,0 +1,10 @@
+Codigo_producto, Nombre_producto, Categoria, Peso_kg, Precio, Fecha_vencimiento
+04521, Nuggets de pollo, Aves, 0.8, 120, 2024-10-30
+08921, Pan de ajo grande, Panaderia, 0.3, 50, 2024-10-15
+17821, Yogurt natural nuez, Lacteos, 0.5, 25, 2024-10-30
+00121, Filete de res Angus, Carne, 1.2, 250, 2024-12-31
+09121, Helado de vainilla, Helados, 1.5, 100, 2024-09-30
+06721, Bolsa de vegetales, Vegetales, 0.5, 80, 2024-12-10
+15621, Galletas de nuez, Galletas, 0.2, 20, 2024-11-15
+02321, Camarones jumbo, Mariscos, 0.5, 180, 2024-11-15
+13421, Salsa de tomate, Salsas, 0.5, 30, 2024-12-31

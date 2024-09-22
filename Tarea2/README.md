@@ -10,6 +10,6 @@ gcc -o main main.c
 ./main
 ```
 
-## Report
+---
 
-![Report](../reports/Tarea_2_SO_Jorge_Juarez.pdf)
+## [PDF report](../reports/Tarea_2_SO_Jorge_Juarez.pdf)

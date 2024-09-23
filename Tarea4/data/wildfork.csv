@@ -1,0 +1,11 @@
+id_reg,name,category,weight,price,expiry,stock
+1,Nuggets de pollo,Aves,0.8,120,2024-10-30,25
+2,Pan de ajo grande,Panaderia,0.3,50,2024-10-15,29
+3,Yogurt natural nuez,Lacteos,0.5,25,2024-10-30,40
+4,Filete de res Angus,Carne,1.2,250,2024-12-31,19
+5,Helado de vainilla,Helados,1.5,100,2024-09-30,10
+6,Bolsa de vegetales,Vegetales,0.5,80,2024-12-10,12
+7,Galletas de nuez,Galletas,0.2,20,2024-11-15,21
+8,Camarones jumbo,Mariscos,0.5,180,2024-11-15,4
+9,Salsa de tomate,Salsas,0.5,30,2024-12-31,11
+10,Pan de ajo chico,Panaderia,0.1,20,2024-10-15,29

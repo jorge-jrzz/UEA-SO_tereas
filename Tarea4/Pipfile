@@ -5,8 +5,6 @@ name = "pypi"
 
 [packages]
 flet = "*"
-sysv-ipc = "*"
-numpy = "*"
 
 [dev-packages]
 
